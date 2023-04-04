@@ -1,0 +1,16 @@
+{
+  "name": "testes-fiqon",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "par-impar.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.2"
+  }
+}
